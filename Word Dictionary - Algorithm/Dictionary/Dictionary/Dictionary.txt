@@ -1,0 +1,48 @@
+apple, a fruit, noun
+run, to move swiftly, verb
+beautiful, pleasing the senses, adjective
+swift, moving with great speed, adjective
+bridge, a structure built to span physical obstacles, noun
+calm, free from disturbance, adjective
+dance, to move rhythmically to music, verb
+eagle, a large bird of prey, noun
+fascinate, to attract and hold the attention, verb
+graceful, characterized by elegance, adjective
+humble, having a modest opinion of one's own importance, adjective
+intelligence, the ability to acquire and apply knowledge, noun
+joyful, feeling or expressing great happiness, adjective
+kindness, the quality of being friendly and generous, noun
+luminous, full of light, adjective
+momentum, the quantity of motion of a moving body, noun
+navigate, to plan and direct the course of a ship or aircraft, verb
+optimistic, hopeful and confident about the future, adjective
+precise, marked by exactness and accuracy, adjective
+quiet, making little or no noise, adjective
+radiant, sending out light, adjective
+serenity, the state of being calm and peaceful, noun
+tranquil, free from disturbance, adjective
+unique, being the only one of its kind, adjective
+vivid, producing powerful feelings or strong, clear images, adjective
+wander, to walk or move in a leisurely way, verb
+xenial, relating to hospitality between host and guest, adjective
+yield, to produce or provide, verb
+zeal, great energy or enthusiasm, noun
+ambitious, having or showing a strong desire to succeed, adjective
+brilliant, exceptionally clever or talented, adjective
+courageous, not deterred by danger or pain, adjective
+diligent, showing care in one's work, adjective
+elegant, pleasingly graceful, adjective
+fearless, showing a lack of fear, adjective
+generous, showing a readiness to give more of something, adjective
+honorable, deserving of respect or high regard, adjective
+innovative, featuring new methods or ideas, adjective
+jubilant, feeling or expressing great happiness, adjective
+keen, having or showing eagerness, adjective
+loyal, giving or showing firm support, adjective
+meticulous, showing great attention to detail, adjective
+nurture, to care for and encourage growth, verb
+observant, quick to notice things, adjective
+patient, able to accept or tolerate delays, adjective
+resilient, able to recover quickly from difficulties, adjective
+sincere, free from pretense or deceit, adjective
+thoughtful, showing consideration for others, adjective

@@ -1,0 +1,50 @@
+apple, A fruit that is sweet and crisp
+banana, A long curved fruit with a yellow skin
+cat, A small domesticated carnivorous mammal
+dog, A domesticated carnivorous mammal
+elephant, A large herbivorous mammal with a trunk
+frog, A small tailless amphibian
+guitar, A musical instrument with six strings
+hat, A head covering worn for warmth or fashion
+ice, Frozen water
+juice, A liquid extracted from fruits or vegetables
+kite, A toy flown in the wind on a string
+lion, A large wild carnivorous mammal
+monkey, A primate with a long tail
+night, The time when it is dark and the sun is below the horizon
+orange, A citrus fruit with a tough bright skin
+pencil, A tool used for writing or drawing
+queen, A female monarch
+river, A large natural stream of water
+star, A luminous point in the night sky
+tree, A tall plant with a trunk and branches
+umbrella, A device used for protection against rain
+vase, A container used to hold flowers
+water, A clear, tasteless liquid essential for life
+xylophone, A musical instrument with wooden bars
+yacht, A medium-sized sailboat
+zebra, A striped African horse
+ant, A small insect that lives in colonies
+ball, A round object used in games and sports
+cake, A sweet baked dessert
+door, A movable barrier used to close off an entrance
+egg, A round or oval object laid by a bird
+fish, A cold-blooded vertebrate that lives in water
+goat, A domesticated mammal with horns
+hat, A head covering worn for warmth or fashion
+igloo, A dome-shaped hut made of snow or ice
+jacket, A garment worn on the upper body
+key, A tool used to open a lock
+lamp, A device that gives light
+moon, The natural satellite of the Earth
+nest, A structure made by a bird for laying eggs
+owl, A nocturnal bird of prey
+pen, A tool used for writing with ink
+quilt, A warm bed covering made of padding enclosed between layers of fabric
+rose, A thorny flowering plant
+sun, The star that the Earth orbits
+truck, A motor vehicle designed to transport cargo
+vulture, A large bird of prey
+whale, A large marine mammal
+x-ray, A type of radiation used to view inside objects
+yarn, A long continuous length of fibers

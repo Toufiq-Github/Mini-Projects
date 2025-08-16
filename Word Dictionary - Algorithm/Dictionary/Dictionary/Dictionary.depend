@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726081279 source:d:\study meterials\cse projects\dictionary project\dictionary\dictionary\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<vector>
+	<algorithm>
+
